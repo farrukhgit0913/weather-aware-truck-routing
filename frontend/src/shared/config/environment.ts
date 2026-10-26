@@ -1,4 +1,4 @@
-const defaultApiBaseUrl = 'https://weather-aware-truck-routing-fawn.vercel.app/api/v1'
+const defaultApiBaseUrl = 'https://weather-aware-truck-routing-uc47.vercel.app/api/v1'
 
 export const environment = Object.freeze({
   apiBaseUrl: import.meta.env.API_BASE_URL ?? defaultApiBaseUrl,
