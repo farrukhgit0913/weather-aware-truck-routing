@@ -38,6 +38,9 @@ python -m venv venv
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+# for Mac users
+python manage.py runserver 
 ```
 
 ### Frontend
